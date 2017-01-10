@@ -30,7 +30,7 @@ public class SplashScreen extends JWindow {
         label.setBounds(85, 25, 280, 30);
         label.setForeground(Color.BLACK);
         panel.add(label);
-        JLabel label2 = new JLabel("Author: Team nofsgiven");
+        JLabel label2 = new JLabel("Author: Vaidhyesh Sundar");
         label2.setFont(new Font("Times New Roman", Font.BOLD, 11));
         label2.setBounds(110, 60, 265, 90);
         label2.setForeground(Color.BLUE);
