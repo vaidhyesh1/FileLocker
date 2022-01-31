@@ -3,8 +3,8 @@ import java.util.*;
 import javax.mail.*;
 import javax.mail.internet.*;
 public class SendEmail {
-private static String USER_NAME = "fool19991@gmail.com"; 
-private static String PASSWORD = "nataliePort";
+private static String USER_NAME = "*****@gmail.com"; 
+private static String PASSWORD = "****";
 public static void send(String RECIPIENT,String key) {
     String from = USER_NAME;
     String pass = PASSWORD;
